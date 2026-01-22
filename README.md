@@ -1,120 +1,138 @@
-<h1 align="center">Prathamesh Bandal</h1>
+<!-- ======================= HERO SECTION ======================= -->
+<div align="center">
 
-<p align="center">
-  Artificial Intelligence & Data Science Engineer<br/>
-  Machine Learning • Applied AI • Embedded & Sensor-Driven Systems
+  <h1>Prathamesh Bandal</h1>
+  <p>
+    AI & Data Science Engineer • Applied Machine Learning • Intelligent Systems
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/prathamesh-bandal/">LinkedIn</a> •
+    <a href="https://github.com/Prathamesh282">GitHub</a>
+  </p>
+
+</div>
+
+<hr/>
+
+<!-- ======================= DASHBOARD STATS ======================= -->
+<div align="center">
+
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Prathamesh282&show_icons=true&include_all_commits=true&hide_border=true" />
+
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh282&layout=compact&hide_border=true" />
+
+</div>
+
+<br/>
+
+<!-- ======================= PROFILE OVERVIEW ======================= -->
+## Overview
+
+I am a **Bachelor of Engineering (Artificial Intelligence & Data Science)** candidate (Batch of 2026) focused on designing **state-of-the-art AI systems** that move beyond experimentation into usable, explainable, and scalable solutions.
+
+My work lies at the intersection of:
+- **Machine Learning & NLP**
+- **Decision-support systems**
+- **Embedded & sensor-driven intelligence**
+- **End-to-end ML pipelines (data → model → application)**
+
+I prioritize **system design, reasoning, and real-world constraints** over toy demonstrations.
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+## Technology Stack
+
+### Core Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,swift" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Prathamesh282">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/prathamesh-bandal/">LinkedIn</a>
+### Machine Learning & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### Systems, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,streamlit" />
 </p>
 
 ---
 
-## Profile Summary
+<!-- ======================= FEATURED PROJECTS ======================= -->
+## Selected Work
 
-I am a **Bachelor of Engineering (Artificial Intelligence & Data Science)** candidate (Batch of 2026) with a strong focus on building **state-of-the-art, application-driven AI systems**. My work combines machine learning, data engineering, and embedded systems to address real-world and research-oriented problems.
+### ⚖️ VerdictAI — Intelligent Legal Decision Support
+**Flagship Project | Private (Research & Evaluation Phase)**  
 
-I am particularly interested in:
-- **Applied Machine Learning & Deep Learning**
-- **AI-driven decision support systems**
-- **Legal-tech, health-tech, and assistive technologies**
-- **End-to-end ML pipelines** (data → model → deployment)
+An AI-driven legal assistant for **bail outcome prediction and structured legal case summarization**.  
+Designed to assist legal practitioners by combining **predictive modeling** with **explainable NLP-based summaries**.
 
-My projects emphasize **problem formulation, model reasoning, and system design** rather than isolated experimentation.
+**Focus Areas**
+- Legal text preprocessing & representation  
+- Bail decision modeling  
+- Explainable summaries for judicial documents  
 
----
-
-## Technical Focus Areas
-
-**Machine Learning & AI**
-- Classical ML, feature engineering, model evaluation
-- Deep learning pipelines and inference workflows
-- NLP-based summarization and prediction systems
-
-**Programming & Systems**
-- Python (ML, data pipelines, APIs)
-- C / C++ for embedded and sensor-level programming
-- Swift for native iOS application development
-
-**Platforms & Tools**
-- Scikit-learn, TensorFlow, PyTorch
-- Streamlit, FastAPI (for ML applications)
-- ESP32-based embedded systems
-- Git-based research and version control workflows
+*Tech:* Python, NLP, ML, LangChain  
+*Status:* Private (research-grade)
 
 ---
 
-## Selected Projects
+### 🧠 EOG-Data — Eye Movement Analysis
+Sensor-driven system for analyzing eye-movement signals with applications in **amblyopia (lazy eye) detection** and assistive technology.
 
-### ⚖️ VerdictAI — Smart Legal Decision Support System
-**Flagship Project (Private / Research-grade)**  
-An AI-powered legal assistant designed for **bail outcome prediction and legal case summarization** using structured case data and natural language processing.
-
-**Key aspects:**
-- Legal text preprocessing and representation
-- Predictive modeling for bail decisions
-- Explainable summarization of judicial documents
-- Designed for real-world legal workflows
-
-*Technologies:* Python, NLP, Machine Learning, LangChain  
-*(Repository currently private)*
+*Tech:* ESP32, C, Python, signal processing, ML
 
 ---
 
-### 🧠 EOG-Data — Eye Movement Analysis System
-A sensor-driven system for analyzing eye-movement patterns with applications in **lazy-eye (amblyopia) detection** and assistive technologies.
+### 📊 Telco-Churn — Predictive Analytics Pipeline
+End-to-end churn prediction system emphasizing **feature engineering, evaluation metrics, and model robustness**.
 
-*Technologies:* ESP32, C, Python, signal processing, ML  
-*Status:* Active research & experimentation
-
----
-
-### 📊 Telco-Churn — Predictive Analytics
-End-to-end churn prediction pipeline using customer behavior data, focusing on **feature engineering, model selection, and evaluation**.
-
-*Technologies:* Python, scikit-learn
+*Tech:* Python, scikit-learn
 
 ---
 
 ### 📷 esp32s-ov7670-cam — Embedded Vision
-Low-level integration of the OV7670 camera with ESP32 for real-time image acquisition and processing.
+Low-level ESP32 integration with OV7670 camera for real-time image capture and embedded vision experiments.
 
-*Technologies:* C++, Embedded Systems
+*Tech:* C++, Embedded Systems
 
 ---
 
 ### 📱 Swift-Weather-App
-A clean, native iOS application providing real-time weather updates via public APIs.
+Native iOS application delivering real-time weather data via REST APIs.
 
-*Technologies:* Swift, REST APIs
-
----
-
-## Ongoing & Private Work
-
-In addition to public repositories, I actively maintain **private repositories** involving:
-- Advanced ML pipelines and MLOps experiments
-- Research-oriented notebooks and datasets
-- AI-based assistive technology prototypes
-- Legal-tech and healthcare-focused applications
-
-These are maintained privately due to research, evaluation, or publication considerations.
+*Tech:* Swift
 
 ---
 
-## Professional Intent
-
-I am open to:
-- Research collaborations  
-- Internships & applied AI roles  
-- Open-source contributions with real-world impact  
-
-My long-term goal is to work on **high-impact AI systems that combine strong theory with practical deployment**.
-
----
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+## Contribution Activity
 
 <p align="center">
-  <em>Focused on building systems, not demos.</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh282&hide_border=true" />
+</p>
+
+---
+
+<!-- ======================= PRIVATE WORK ======================= -->
+## Private & Ongoing Work
+
+Alongside public repositories, I actively maintain **private repositories** involving:
+- Advanced ML & MLOps pipelines  
+- Legal-tech and healthcare-focused AI systems  
+- Assistive technology using EEG / EOG signals  
+- Research notebooks prepared for evaluation or publication  
+
+These are kept private due to **research, originality, or submission constraints**.
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <em>Designing intelligent systems with purpose, not demos.</em>
 </p>
