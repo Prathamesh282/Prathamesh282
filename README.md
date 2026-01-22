@@ -16,13 +16,17 @@
 <hr/>
 
 <!-- ======================= DASHBOARD STATS ======================= -->
-<div align="left">
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
 
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Prathamesh282&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Prathamesh282&show_icons=true&include_all_commits=true&hide_border=true"
+    height="160"
+  />
 
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh282&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh282&layout=compact&hide_border=true"
+    height="160"
+  />
 
 </div>
 
