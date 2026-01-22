@@ -107,11 +107,10 @@ Native iOS application delivering real-time weather data via REST APIs.
 <!-- ======================= DASHBOARD STATS ======================= -->
 <div align="center">
 
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Prathamesh282&show_icons=true&include_all_commits=true&hide_border=true" />
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh282&layout=compact&hide_border=true" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh282&show_icons=true&include_all_commits=true&hide_border=true&card_width=350&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh282&layout=compact&hide_border=true&card_width=350&theme=transparent"/>
+</p>
 
 </div>
 
