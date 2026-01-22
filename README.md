@@ -15,19 +15,6 @@
 
 <hr/>
 
-<!-- ======================= DASHBOARD STATS ======================= -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Prathamesh282&show_icons=true&include_all_commits=true&hide_border=true"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh282&layout=compact&hide_border=true"
-  />
-</p>
-
-
-<br/>
-
 <!-- ======================= PROFILE OVERVIEW ======================= -->
 ## Overview
 
@@ -116,6 +103,19 @@ Native iOS application delivering real-time weather data via REST APIs.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh282&hide_border=true" />
 </p>
+
+<!-- ======================= DASHBOARD STATS ======================= -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Prathamesh282&show_icons=true&include_all_commits=true&hide_border=true"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh282&layout=compact&hide_border=true"
+  />
+</p>
+
+
+<br/>
 
 ---
 
